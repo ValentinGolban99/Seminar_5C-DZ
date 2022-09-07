@@ -15,14 +15,3 @@ for (int i = 0; i < array.Length; i++)
 Console.WriteLine();
 Console.WriteLine($"Кол-во четных чисел = {neverNumber}");
 
-
-
-
-// for (int i = 0; i < array.Length; i++) // array.Length = 10
-// {
-// array[i] = new Random().Next(10,1000);
-// Console.Write(array[i] + " ");
-// if (array[i] >= 10 && array[i] <= 99) count++;
-// }
-// System.Console.WriteLine();
-// Console.WriteLine(count);
